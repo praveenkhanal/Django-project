@@ -1,4 +1,4 @@
-General Assembly group project Project-2
+Group project: Project-2
 
 
 Overview: Fully functional motorcycle website that has the features of purchasing directly from the site with utilization of Stripe Api.
